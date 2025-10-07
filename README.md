@@ -1,40 +1,32 @@
-
-# EXPT NO: 3-STAIR CASE WIRING                     
+# EXP-3
+EXPT NO: 3 : STAIR CASE WIRING                     
 
  
-# AIM:
+## AIM
  To control the status of the given lamp by using two–way switches. 
- 
-# APPARATUS REQUIRED:
-S. No.
+APPARATUS REQUIRED:
 
+## S. No.
 Name of the apparatus	
-
 Range / Type	
-# Quantity
+Quantity
+
 1	Incandescent Lamp	60W	1 No.
-
 2	Lamp Holder	Pendent Type	1 No.
-
 3	SPDT Switch	230V,5A	2 Nos
-
 4	Wires	1/18”	As per requirement
-
 5	P.V.C Pipe	1/4"	As per requirement
-
 6	Wooden Board	-	1 No.
-
 7	Round block	-	1 No.
 
 
-
-# THEORY:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-# PROCEDURE:
+## PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -46,25 +38,25 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-# CIRCUIT DIAGRAM: 
 
-a)SPDT(XNOR):
+## Direct connection:
 
-<img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
-
-
-b)SPDT(XOR):
-
-<img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
+<img width="1505" height="912" alt="Screenshot 2025-09-23 132950" src="https://github.com/user-attachments/assets/9c4dd380-31c4-4d93-994c-5faf0942d9be" />
 
 
-a) SPDT(XNOR):
-![WhatsApp Image 2025-10-04 at 1 22 14 PM](https://github.com/user-attachments/assets/0e4add3c-b1f3-4093-8937-5a8a30a4e9f3)
+### CIRCUIT DIAGRAM &Tabulation:1
 
-b) SPDT(XOR):
-![WhatsApp Image 2025-10-04 at 1 22 15 PM](https://github.com/user-attachments/assets/b7c006eb-d4c8-444c-8343-b761649c6f00)
+![exp3-1](https://github.com/user-attachments/assets/3bb2eb34-5444-4399-8eb1-54479546f279)
+
+	
+## Cross connection:
+
+<img width="1231" height="696" alt="Screenshot 2025-09-23 135334" src="https://github.com/user-attachments/assets/8d756b19-2d4d-4e98-a829-5fba5a731fd8" />
 
 
+### CIRCUIT DIAGRAM & Tabulation:2
+![exp3-2](https://github.com/user-attachments/assets/9f7ce688-1dd6-487c-aed8-122b4ab998bf)
 
-# RESULT:
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
